@@ -1,0 +1,109 @@
+{
+  "reservas": [
+    {
+      "customerName": "Juan Pérez",
+      "numberOfPeople": 4,
+      "status": "PENDING"
+    },
+    {
+      "customerName": "María García",
+      "numberOfPeople": 3,
+      "status": "CONFIRMED"
+    },
+    {
+      "customerName": "Carlos López",
+      "numberOfPeople": 2,
+      "status": "CANCELLED"
+    },
+    {
+      "customerName": "Ana Rodríguez",
+      "numberOfPeople": 5,
+      "status": "COMPLETED"
+    },
+    {
+      "customerName": "Pedro Martínez",
+      "numberOfPeople": 6,
+      "status": "PENDING"
+    },
+    {
+      "customerName": "Luis Hernández",
+      "numberOfPeople": 3,
+      "status": "CONFIRMED"
+    },
+    {
+      "customerName": "Eva Gómez",
+      "numberOfPeople": 4,
+      "status": "CANCELLED"
+    },
+    {
+      "customerName": "Raúl Santos",
+      "numberOfPeople": 2,
+      "status": "COMPLETED"
+    },
+    {
+      "customerName": "Sofía Moreno",
+      "numberOfPeople": 5,
+      "status": "PENDING"
+    },
+    {
+      "customerName": "Alejandro Fernández",
+      "numberOfPeople": 3,
+      "status": "CONFIRMED"
+    },
+    {
+      "customerName": "Beatriz García",
+      "numberOfPeople": 4,
+      "status": "CANCELLED"
+    },
+    {
+      "customerName": "Tomás Hernández",
+      "numberOfPeople": 2,
+      "status": "COMPLETED"
+    },
+    {
+      "customerName": "Lucía López",
+      "numberOfPeople": 5,
+      "status": "PENDING"
+    },
+    {
+      "customerName": "David Rodríguez",
+      "numberOfPeople": 3,
+      "status": "CONFIRMED"
+    },
+    {
+      "customerName": "Isabel Martínez",
+      "numberOfPeople": 4,
+      "status": "CANCELLED"
+    },
+    {
+      "customerName": "Antonio Gómez",
+      "numberOfPeople": 2,
+      "status": "COMPLETED"
+    },
+    {
+      "customerName": "Cristina Hernández",
+      "numberOfPeople": 5,
+      "status": "PENDING"
+    },
+    {
+      "customerName": "Francisco López",
+      "numberOfPeople": 3,
+      "status": "CONFIRMED"
+    },
+    {
+      "customerName": "María José Santos",
+      "numberOfPeople": 4,
+      "status": "CANCELLED"
+    },
+    {
+      "customerName": "Rafael García",
+      "numberOfPeople": 2,
+      "status": "COMPLETED"
+    },
+    {
+      "customerName": "Elena Martínez",
+      "numberOfPeople": 5,
+      "status": "PENDING"
+    }
+  ]
+}
